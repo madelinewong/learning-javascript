@@ -8,13 +8,13 @@ const aNumber = 123
 const anotherNumber = 123.2
 console.log("aString === anotherString: ", aString === anotherString); 
 console.log("aString < anotherString: ", aString < anotherString); 
-console.log("aString <== anotherString: ", aString <== anotherString);
+console.log("aString <== anotherString: ", aString <= anotherString);
 console.log("aString > anotherString: ", aString > anotherString);
 console.log("aString >= anotherString: ", aString >= anotherString); 
 console.log("aString !== anotherString: ", aString !== anotherString); 
 console.log("aNumber === anotherNumber:", aNumber === anotherNumber);
 console.log("aNumber < anotherNumber:", aNumber < anotherNumber);
-console.log("aNumber <== anotherNumber:", aNumber <== anotherNumber);
+console.log("aNumber <== anotherNumber:", aNumber <= anotherNumber);
 console.log("aNumber > anotherNumber:", aNumber > anotherNumber);
 console.log("aNumber >= anotherNumber:", aNumber >= anotherNumber);
 console.log("aNumber !== anotherNumber:", aNumber !== anotherNumber);
