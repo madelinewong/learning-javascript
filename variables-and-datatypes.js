@@ -30,4 +30,14 @@
  console.log("aNumber: ", aNumber);
  console.log("anotherNumber:", anotherNumber); 
  console.log("Type of aNumber: ", typeof aNumber);
- console.log("Type of anotherNumber:", typeof anotherNumber);  
+ console.log("Type of anotherNumber:", typeof anotherNumber); 
+ //Numbers will come back up. There is more to know. 
+ //Now we're onto Arrays. 
+ const anArray = [1, 2, 3, 4]; //an array of numbers.
+ const aStringArray = ["cheese", "bacon", "cheese"]; //an array of strings. 
+ console.log("anArray: ", anArray); 
+ console.log("aStringArray:", aStringArray); 
+ console.log("How many elements are in anArray?", anArray.length); 
+ //the "." after anArray (The variable) acesses the property length of an array. 
+console.log("What is the type of anArray?", typeof anArray);
+//We definitely aren't finished with arrays. These are everywhere. 
