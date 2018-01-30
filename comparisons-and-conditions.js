@@ -18,4 +18,3 @@ console.log("aNumber <== anotherNumber:", aNumber <== anotherNumber);
 console.log("aNumber > anotherNumber:", aNumber > anotherNumber);
 console.log("aNumber >= anotherNumber:", aNumber >= anotherNumber);
 console.log("aNumber !== anotherNumber:", aNumber !== anotherNumber);
-
