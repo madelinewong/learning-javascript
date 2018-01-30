@@ -55,3 +55,9 @@ console.log("Type of anObject?", typeof anObject);
 console.log("What is the color of the object?", anObject.color);
 console.log("What is the size of the object?", anObject.size);
 console.log("What is the toppings on anObject?", anObject['toppings']);
+
+//Objects are everywhere. We will return. 
+//Booleans 
+const yes = true; 
+const no = false; 
+// const true = 3; ///Bad! Cannot use a reserved word for a variable. 
